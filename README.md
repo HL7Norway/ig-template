@@ -8,9 +8,10 @@ this is a very basic fhir implementation guide template based on from the
 
 ## Using the ig template
 
-Refer to the IG template in your implementation guide (ig.ini) with:
+You can use the template by referencing it from the HL7 Norway Github.
+Edit the template element of you ig.ini file to point to the GitHub source:
 ```
-template = no.fhir.ig.template#current
+template = https://github.com/HL7Norway/ig-template
 ```
 
 * Provide [packages-list.json](https://wiki.hl7.org/index.php?title=FHIR_IG_PackageList_doco) in input/pagecontent directory
