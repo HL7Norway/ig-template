@@ -1,11 +1,11 @@
 {
-  "name": "ch.fhir.ig.template",
-  "version": "0.6.0",
+  "name": "no.fhir.ig.template",
+  "version": "0.1.0",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "author": "HL7 Switzerland",
+  "author": "HL7 Norway",
   "description": "FHIR IG Template",
-  "canonical": "http://fhir.ch/ig/template",
+  "canonical": "http://fhir.no/ig/template",
   "base": "fhir.base.template",
   "dependencies": {
     "fhir.base.template": "current"

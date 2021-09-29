@@ -1,8 +1,8 @@
 {
-  "package-id": "ch.fhir.ig.template",
-  "title": "FHIR HL7 Swiss IG Template",
-  "introduction": "FHIR HL7 Swiss IG Template",
-  "canonical": "http://fhir.ch/ig/template",
+  "package-id": "no.fhir.ig.template",
+  "title": "FHIR HL7 Norway IG Template",
+  "introduction": "FHIR HL7 Norway IG Template",
+  "canonical": "http://fhir.no/ig/template",
   "list": [
     {
       "version": "current",
@@ -12,10 +12,10 @@
       "current": true
     },
     {
-      "version": "0.6.0",
+      "version": "0.1.0",
       "date": "2021-06-09",
-      "desc": "HL7 Switzerland",
-      "path": "http://fhir.ch/ig/template",
+      "desc": "HL7 Norway",
+      "path": "http://fhir.no/ig/template",
       "status": "trial-use",
       "sequence": "STU",
       "fhirversion": "4.0.1",
