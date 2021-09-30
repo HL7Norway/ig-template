@@ -1,5 +1,5 @@
-# hl7 norway ig template for IG Publisher
-this is a very basic fhir implementation guide template based on from the
+# HL7 norway ig template for IG Publisher
+This is a basic fhir implementation guide template based on from the
 [fhir.base.template](https://github.com/HL7/ig-template-base) for the [IG Publisher](https://wiki.hl7.org/IG_Publisher_Documentation)
 
 ## Features
@@ -17,7 +17,7 @@ template = https://github.com/HL7Norway/ig-template
 * Provide [packages-list.json](https://wiki.hl7.org/index.php?title=FHIR_IG_PackageList_doco) in input/pagecontent directory
 
 ## Note on HL7/FHIR Logos
-this template does not use the hl7/fhir logo, however you can include them by providing logo.html and fhirlogo.hml in input/includes directory and logos in input/pagecontent/assets/images/, check rules [zulip](https://chat.fhir.org/#narrow/stream/179294-committers.2Fannounce/topic/HL7.20Trademark.20Issues).
+This template does include the use the hl7/fhir logo by uncommenting the html-code in the logo.html and fhirlogo.hml in input/includes directory. Logos can be accessed from input/pagecontent/assets/images/ or online on Github. The template is designed for IG's controlled by HL7 Norway, please check rules for FHIR/HL7 logo use on [zulip](https://chat.fhir.org/#narrow/stream/179294-committers.2Fannounce/topic/HL7.20Trademark.20Issues) before publishing an implementation guide containing official HL7/FHIR or affiliate logo.
 
 ## Add a feedback form for your ig
 
