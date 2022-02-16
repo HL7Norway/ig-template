@@ -8,6 +8,6 @@
   "canonical": "http://fhir.no/ig/template",
   "base": "fhir.base.template",
   "dependencies": {
-    "fhir.base.template": "current"
+    "fhir.base.template": "0.1.0"
   }
 }
