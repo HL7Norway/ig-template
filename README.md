@@ -8,6 +8,10 @@ This is a basic fhir implementation guide template based on the
 * Custom logos (see below)
 * Propose a change with is routed through Google Forms to github
 
+## TO-DO
+
+Make the template use the latest base template build instead of current release because of [this](https://chat.fhir.org/#narrow/stream/179252-IG-creation/topic/jekyll.2Ftemplate.20error)
+
 ## Using the ig template
 
 You can use the template by referencing it from the HL7 Norway Github.
