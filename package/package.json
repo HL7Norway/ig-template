@@ -1,6 +1,6 @@
 {
   "name": "no.fhir.ig.template",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "author": "HL7 Norway",
